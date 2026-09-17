@@ -1,5 +1,5 @@
 # AI Call Triage
-
+> 🚀 **Try it live: [open the working demo](https://plompee.github.io/projects/call-triage.html)** — no setup, runs entirely in your browser.>
 Interactive demo of an AI call-routing system — a recreation of the triage pipeline I helped build at **Apex27** (real estate, remote).
 
 Play a preset caller — meeting request, callback, telemarketing, debt collection — or type your own line, and watch the engine:
